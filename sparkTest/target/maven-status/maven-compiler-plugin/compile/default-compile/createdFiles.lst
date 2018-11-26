@@ -1,1 +1,2 @@
-com\test\spark\SparkLineCounter.class
+com\test\spark\SparkFileLineCounter.class
+com\test\spark\SparkListCounter.class
