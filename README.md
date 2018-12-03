@@ -15,10 +15,10 @@ http://192.168.99.100:8081/
 
 - spark-submit --class com.test.spark.SparkListCounter --master spark://spark:7077 /data/sparkTest-0.0.1-SNAPSHOT.jar
 
- ```mermaid
+```mermaid
     graph TD;
         A-->B;
         A-->C;
         B-->D;
         C-->D;
-    ```
+```
